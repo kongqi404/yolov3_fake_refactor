@@ -6,3 +6,5 @@
  python yolo_video.py [-image] [--input "路径"] [--output "路径"]
 # 训练
  python train.py
+# 具体使用
+参见 https://github.com/qqwweee/keras-yolo3/blob/master/README.md
